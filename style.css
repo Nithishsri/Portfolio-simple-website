@@ -1,0 +1,66 @@
+*{
+    font-family: "Young Serif", serif;
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background-color: black;
+    color: white;
+    padding: 18px;
+}
+.contact__link{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    border-radius: 2px;
+    padding: 2px;
+}
+.About__container{
+    padding: 20px;
+}
+.total__box{
+    display: flex;
+    padding: 30px;
+    margin: 20px;
+    
+}
+.interest__container{
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 5px;
+}
+ul li{
+    list-style: none;
+}
+.my__projects{
+    background-color: orangered;
+    padding: 20px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.instagram{
+    color: skyblue;
+}
+.linkedin{
+    color: skyblue;
+}
+.contact__form{
+    margin-top: 20px;
+}
+.footer{
+    margin-top: 20px;
+}
+.input__box{
+    border: none;
+    border-bottom: 1px solid black;
+}
+.submit__button{
+    background-color: orangered;
+    color: white;
+    border: none;
+}
